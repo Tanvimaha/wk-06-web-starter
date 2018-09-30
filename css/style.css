@@ -1,0 +1,20 @@
+
+
+body{
+  background-image: url("https://i.pinimg.com/originals/ef/8b/2a/ef8b2ad40498aa24ca1467590710c507.jpg");
+  width: auto;
+}
+
+#container1, #container2{
+  background-color: white;
+}
+
+#container1{
+  padding-top: 10px;
+}
+
+#containerMain{
+padding-top: 20px;
+  padding-bottom: 10px;
+  background-color: white;
+}
